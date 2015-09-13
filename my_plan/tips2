@@ -1,0 +1,52 @@
+python 异常
+
+在ubuntu里面创建个iso当秘密基地
+
+stringIO
+
+requests 设置timeout失败
+
+svn conflict
+Select: (p) postpone, (df) show diff, (e) edit file, (m) merge,
+        (r) mark resolved, (mc) my side of conflict,
+        (tc) their side of conflict, (s) show all options:
+
+auth_permission.py 135
+
+
+traceback.print_exc()
+
+delete many怎么做的 executemany
+
+子网掩码
+
+cursor.fetchone是到数据库里去拿数据吗
+看下check_login装饰器
+看下log是怎么弄的
+http里面的user-agent
+ipdb里面怎样用for循环 (iter)
+conn.text_factory = str什么意思
+urllib, urllib2
+
+Content-type application/json application/x-www-form-urlencoded区别
+
+linux band端口
+守护进程
+
+svn 冲突解决
+
+orm
+
+python路径
+
+常用的加密
+
+feidld
+public标记
+越权
+
+[2015-05-22 19:24:39,673] - WARNING /home/prod/.virtualenvs/tbeat/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:90: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+
+python 虚拟环境
+supervisor
+
